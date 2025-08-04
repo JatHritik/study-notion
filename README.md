@@ -1,1 +1,1 @@
-https://studynotion-frontend.vercel.app/
+https://my-study-notion.vercel.app/
